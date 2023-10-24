@@ -160,7 +160,7 @@ msgstr "Es wurden keine Bäume gefunden."
 
 #: admin/class-genealogical-tree-admin.php:224
 msgid "No trees found in Trash."
-msgstr "Keine Bäume in Papierkorb gefunden."
+msgstr "Keine Bäume im Papierkorb gefunden."
 
 #: admin/class-genealogical-tree-admin.php:249
 msgctxt "post type general name"
@@ -221,7 +221,7 @@ msgstr "Keine Familien gefunden."
 
 #: admin/class-genealogical-tree-admin.php:262
 msgid "No families found in Trash."
-msgstr "Keine Familien in Trash gefunden."
+msgstr "Keine Familien im Trash gefunden."
 
 #: admin/class-genealogical-tree-admin.php:291
 msgctxt "genealogical-tree"
@@ -340,7 +340,7 @@ msgid ""
 "that. But if any error, you can contact us."
 msgstr ""
 "Möglicherweise wird für einige Dateien eine Warnung beim Importprozess "
-"angezeigt, aber keine Sorge. Aber wenn ein Fehler, können Sie uns "
+"angezeigt, aber keine Sorge. Wenn ein Fehler auftritt, können Sie uns "
 "kontaktieren."
 
 #: admin/class-genealogical-tree-admin.php:1266
@@ -414,8 +414,7 @@ msgstr "Mögliche Wurzeln"
 
 #: admin/inc/class-genealogical-tree-family.php:148
 msgid "To view possibles first generate default tree"
-msgstr ""
-"So zeigen Sie mögliche Möglichkeiten zuerst Standardstruktur zu generieren"
+msgstr "Um die Möglichkeiten zu sehen, erzeugen Sie zunächst einen Standardbaum"
 
 #: admin/inc/class-genealogical-tree-family.php:154
 msgid "Members Page"
@@ -456,11 +455,11 @@ msgstr ""
 
 #: admin/partials/genealogical-tree-admin-settings.php:44
 msgid "Hide Credit Text"
-msgstr "Kredittext ausblenden"
+msgstr "Abspanntext ausblenden"
 
 #: admin/partials/genealogical-tree-admin-settings.php:45
 msgid "This will Credit Text"
-msgstr "Dies wird Credit Text"
+msgstr "Dies wird Abspanntext"
 
 #: admin/partials/genealogical-tree-admin-settings.php:63
 #: admin/partials/genealogical-tree-meta-tree-settings.php:98
@@ -469,7 +468,7 @@ msgstr "Baumstil 1"
 
 #: admin/partials/genealogical-tree-admin-settings.php:66
 msgid "Tree Style 2"
-msgstr "Baum-Stil 2"
+msgstr "Baumstil 2"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:47
 #: public/Traits/traits-genealogical-tree-single-member-info.php:476
@@ -518,7 +517,7 @@ msgstr "Weiblich"
 #: admin/partials/genealogical-tree-meta-member-info.php:89
 #: public/Traits/traits-genealogical-tree-single-member-info.php:198
 msgid "Birth"
-msgstr "Batum"
+msgstr "Geburtsdatum"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:111
 #: admin/partials/genealogical-tree-meta-member-info.php:171
@@ -545,7 +544,7 @@ msgstr "Löschen"
 #: admin/partials/genealogical-tree-meta-member-info.php:119
 #: admin/partials/genealogical-tree-meta-member-info.php:178
 msgid "REF"
-msgstr ""
+msgstr "Referenz"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:125
 #: admin/partials/genealogical-tree-meta-member-info.php:184
@@ -583,7 +582,7 @@ msgstr "Mutter"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:225
 msgid "Select Mother"
-msgstr "Wählen Sie Mutter"
+msgstr "Mutter auswählen"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:234
 #: public/Traits/traits-genealogical-tree-single-member-info.php:489
@@ -592,7 +591,7 @@ msgstr "Vater"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:238
 msgid "Select Father"
-msgstr "Select Father"
+msgstr "Vater auswählen"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:247
 msgid "Spouses"
@@ -604,7 +603,7 @@ msgstr "Ehefrau"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:277
 msgid "Select Wife"
-msgstr "Wählen Sie Frau"
+msgstr "Ehefrau auswählen"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:285
 #: admin/partials/genealogical-tree-meta-member-info.php:330
@@ -647,7 +646,7 @@ msgstr "Ehemann"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:322
 msgid "Select Husband"
-msgstr "Wählen Sie Ehemann"
+msgstr "Ehemann auswählen"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:355
 msgid "Contact Information"
@@ -673,12 +672,12 @@ msgstr "Bestattung"
 #: admin/partials/genealogical-tree-meta-member-info.php:431
 #: public/Traits/traits-genealogical-tree-single-member-info.php:343
 msgid "Adoption"
-msgstr "Annahme"
+msgstr "Adoption"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:435
 #: public/Traits/traits-genealogical-tree-single-member-info.php:347
 msgid "Engagement"
-msgstr "Engagement"
+msgstr "Verlobung"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:439
 #: public/Traits/traits-genealogical-tree-single-member-info.php:351
@@ -697,7 +696,7 @@ msgstr "Taufe"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:455
 msgid "Christening"
-msgstr ""
+msgstr "Taufe"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:459
 #: public/Traits/traits-genealogical-tree-single-member-info.php:367
@@ -722,11 +721,11 @@ msgstr ""
 
 #: admin/partials/genealogical-tree-meta-member-info.php:479
 msgid "EMIGRATION"
-msgstr ""
+msgstr "AUSWANDERUNG"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:483
 msgid "GRADUATION"
-msgstr ""
+msgstr "SCHULABSCHLUSS"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:487
 msgid "IMMIGRATION"
@@ -734,11 +733,11 @@ msgstr "IMMIGRATION / EINWANDERUNG"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:491
 msgid "NATURALIZATION"
-msgstr ""
+msgstr "EINBÜRGERUNG"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:495
 msgid "RETIREMENT"
-msgstr ""
+msgstr "RUHESTAND"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:499
 msgid "PROBATE"
@@ -755,7 +754,7 @@ msgstr "Beruf"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:521
 msgid "Additional Events"
-msgstr "Zusätzliche Veranstaltungen"
+msgstr "Zusätzliche Ereignisse"
 
 #: admin/partials/genealogical-tree-meta-member-info.php:552
 msgid "Select an Event"
@@ -771,12 +770,12 @@ msgstr "Allgemeine Einstellungen"
 #: admin/partials/genealogical-tree-meta-tree-settings.php:65
 #: admin/partials/genealogical-tree-meta-tree-settings.php:69
 msgid "Select Root"
-msgstr "Wählen Sie Root"
+msgstr "Root auswählen"
 
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:91
 #: admin/partials/genealogical-tree-meta-tree-settings.php:94
 msgid "Select Style"
-msgstr "Wähle einen Stil"
+msgstr "Stil auswählen"
 
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:95
 msgid "Style 1"
@@ -872,7 +871,7 @@ msgstr "Keine"
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:168
 #: admin/partials/genealogical-tree-meta-tree-settings.php:171
 msgid "Hide Birth Day Who Alive"
-msgstr "Verstecken Geburt Tag, die lebendig"
+msgstr "Bei Lebendigen Geburtstag ausblenden"
 
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:176
 #: admin/partials/genealogical-tree-meta-tree-settings.php:179
@@ -897,7 +896,7 @@ msgstr "Kurz"
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:208
 #: admin/partials/genealogical-tree-meta-tree-settings.php:211
 msgid "Sibling Order"
-msgstr "Geschwister-Orden"
+msgstr "Geschwister-Reihenfolge"
 
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:212
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:601
@@ -1027,7 +1026,7 @@ msgstr "Zeige Bild"
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:587
 #: admin/partials/genealogical-tree-meta-tree-settings.php:591
 msgid "Name Text Setting"
-msgstr "Namenstexteinstellung"
+msgstr "Namenstext-Einstellung"
 
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:592
 #: admin/partials/genealogical-tree-meta-tree-settings-premium.php:704
@@ -1141,7 +1140,7 @@ msgstr "D"
 
 #: public/Traits/traits-genealogical-tree-single-member-info.php:72
 msgid "Spouse"
-msgstr "Gatte"
+msgstr "Ehepartner"
 
 #: public/Traits/traits-genealogical-tree-single-member-info.php:97
 msgid "Date of Marriage"
@@ -1177,7 +1176,7 @@ msgstr "Standort"
 
 #: public/Traits/traits-genealogical-tree-single-member-info.php:391
 msgid "Events"
-msgstr "Veranstaltungen"
+msgstr "Ereignisse"
 
 #: public/Traits/traits-genealogical-tree-single-member-info.php:453
 msgid "Member Information"
